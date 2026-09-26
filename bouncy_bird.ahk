@@ -1,5 +1,5 @@
 ﻿; Launches the Flappy Bird Electron app
-#RequiresAutoHotkey v2
+#Requires AutoHotkey v2
 
 ; Change this to your actual project path!
 projectPath := "C:\Users\ruben\GithubStuff\bouncy_bird"

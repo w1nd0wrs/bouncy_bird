@@ -184,7 +184,7 @@ function handleInput() {
 canvas.addEventListener('mousedown', handleInput);
 
 document.addEventListener('keydown', (e) => {
-  if (e.code === 'Space') {
+  if (e.code === 'Space' || e.code === 'KeyW') {
     e.preventDefault();
     handleInput();
   }

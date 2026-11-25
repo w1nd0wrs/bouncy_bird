@@ -8,7 +8,7 @@
     "start": "electron ."
   },
   "keywords": [],
-  "author": "",
+  "author": "w1nd0wrs",
   "license": "ISC",
   "devDependencies": {
     "electron": "^44.4.5"
